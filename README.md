@@ -3,6 +3,7 @@
 This interactive Power BI dashboard provides a comprehensive overview of **Madhav’s online sales performance** across regions, product categories, and time periods. It helps stakeholders identify sales trends, profit patterns, top customers, and payment mode preferences to drive data-backed decisions.
 
 ---
+
 ## ⚙️ Key Features
 
 1. **Executive Summary Cards**
